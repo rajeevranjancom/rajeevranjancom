@@ -1,5 +1,5 @@
 
-- 🔭 About me: ## I am a Front-End Developer/ Software Developer based in the Bangalore India and i have been building, developing websites for years, which comply                    with the latest design trends. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution                    helps me prioritize tasks, iterate fast and deliver faster.
+- 🔭 About me: I am a Front-End Developer/ Software Developer based in the Bangalore India and i have been building, developing websites for years, which comply                    with the latest design trends. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution                    helps me prioritize tasks, iterate fast and deliver faster.
 - 🌱 I’m currently learning: MIT 6.006
 - 👯 I’m looking to collaborate on: java, C++
 - 🤔 I’m looking for help with: React, Spring
@@ -12,9 +12,9 @@
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-🔭 [dev][dev]
-💬 [quora][quora]
+👔 [linkedin][linkedin] **|** 
+🔭 [dev][dev] **|** 
+💬 [quora][quora] **|** 
 
 
 [gatsby]: https://gatsbyjs.org
