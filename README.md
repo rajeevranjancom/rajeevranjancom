@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/rajeev.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <img alt="3" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/3.gif">
   <img alt="4" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/4.gif">
