@@ -29,7 +29,6 @@
   <img alt="22" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/22.gif">
   <img alt="23" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/23.gif">
   <img alt="24" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/24.gif">
-  <img alt="25" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/25.gif">
   <img alt="28" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/28.gif">
   <img alt="29" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/29.gif">
   <img alt="30" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/30.gif">
