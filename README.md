@@ -7,7 +7,7 @@
 <img alt="Globe" height="80" src="https://github.com/dolphingarlic/dolphingarlic/blob/master/images/globe.gif?raw=true">
 </a>
 
-<img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/rajeev.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/rajeev.gif" style="max-width: 50%;" alt="Welcome to my Github Profile" />
 
 
 
