@@ -1,19 +1,11 @@
 <div align="center">
   <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/images.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img alt="1" height="80" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
 <img alt="Globe" height="80" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
 <img alt="Globe" height="80" src="https://github.com/dolphingarlic/dolphingarlic/blob/master/images/globe.gif?raw=true">
 <img alt="Globe" height="80" src="https://github.com/dolphingarlic/dolphingarlic/blob/master/images/globe.gif?raw=true">
 </a>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/rajeev.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
