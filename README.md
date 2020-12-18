@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/images.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
-<img alt="1" height="80" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
-<img alt="Globe" height="80" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
+<img alt="1" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif"><img alt="Globe" height="80" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
+
 <img alt="Globe" height="80" src="https://github.com/dolphingarlic/dolphingarlic/blob/master/images/globe.gif?raw=true">
 <img alt="Globe" height="80" src="https://github.com/dolphingarlic/dolphingarlic/blob/master/images/globe.gif?raw=true">
 </a>
@@ -17,11 +17,7 @@
 - 🌱 I’m currently learning: MIT 6.006/6.046J / 18.410J
 - 👯 I’m looking to collaborate on: java, C++
 - 🤔 I’m looking for help with: React, Spring
-- 💬 Ask me about: Anything
 - 📫 How to reach me: cs19rajeev@gmail.com
-- 😄 Pronouns: Raj-eev- Ran-jan
-- ⚡ Fun fact: Just Reach me out
-
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
