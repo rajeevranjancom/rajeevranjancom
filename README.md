@@ -1,17 +1,10 @@
 <div align="left">
-  <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/rajeev.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  </div>
-  
-  <div>
+  <img alt="1" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
+  <img alt="2" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/2.gif">
   <img alt="3" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/3.gif">
   <img alt="4" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/4.gif">
-  </div>
+  
   <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/images.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-
-<img alt="1" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
-<img alt="2" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/2.gif">
-<img alt="3" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/3.gif">
-<img alt="4" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/4.gif">
 </div>
 
 - 🔭 About me: I am a Front-End Developer/ Software Developer based in the Bangalore India and i have been building, developing websites for years, which comply                    with the latest design trends. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution                    helps me prioritize tasks, iterate fast and deliver faster.
