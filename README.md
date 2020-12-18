@@ -2,11 +2,13 @@
   <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/images.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Rajeev Ranjan and I like coding" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/images.jpg" />
+  <img height="50" alt="My Name is Rajeev Ranjan and I like coding" />
   <br />
   <br />
 
 </div>
+
+
 - 🔭 About me: I am a Front-End Developer/ Software Developer based in the Bangalore India and i have been building, developing websites for years, which comply                    with the latest design trends. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution                    helps me prioritize tasks, iterate fast and deliver faster.
 - 🌱 I’m currently learning: MIT 6.006/6.046J / 18.410J
 - 👯 I’m looking to collaborate on: java, C++
