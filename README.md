@@ -1,5 +1,7 @@
 <div align="left">
-  <img alt="0" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/0.gif">
+  <div>
+  <img alt="0" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/0.jpeg">
+  </div>
   <img alt="1" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
   <img alt="2" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/2.gif">
   <img alt="3" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/3.gif">
