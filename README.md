@@ -13,7 +13,6 @@
   <img alt="10" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/10.gif">
   <img alt="11" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/11.gif">
   <img alt="12" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/12.gif">
-  <img alt="35" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/35.gif">
   
    <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/0.jpeg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
