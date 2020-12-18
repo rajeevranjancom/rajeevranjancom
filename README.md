@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/rajeev.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/rajeev.gif" style="max-width: 150%;" alt="Welcome to my Github Profile" />
   <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/images.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
 <img alt="1" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
