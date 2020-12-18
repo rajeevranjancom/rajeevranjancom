@@ -13,19 +13,12 @@
   <img alt="10" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/10.gif">
   <img alt="11" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/11.gif">
   <img alt="12" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/12.gif">
-  <img alt="30" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/30.gif">
-  <img alt="31" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/31.gif">
-  <img alt="32" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/32.gif">
   <img alt="33" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/33.gif">
-  <img alt="34" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/34.gif">
   <img alt="35" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/35.gif">
   
    <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/0.jpeg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
-  <img alt="14" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/14.gif">
   <img alt="15" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/15.gif">
-  <img alt="18" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/18.gif">
-  <img alt="19" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/19.gif">
   <img alt="20" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/20.gif">
   <img alt="21" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/21.gif">
   <img alt="22" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/22.gif">
@@ -33,10 +26,7 @@
   <img alt="24" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/24.gif">
   <img alt="28" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/28.gif">
   <img alt="29" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/29.gif">
-  <img alt="30" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/30.gif">
   <img alt="31" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/31.gif">
-  <img alt="32" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/32.gif">
-  <img alt="34" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/34.gif">
   <img alt="35" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/35.gif">
   <img alt="55" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/55.gif">
   <img alt="23" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/23.gif">
