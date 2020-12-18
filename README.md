@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/images.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="My Name is Rajeev Ranjan and I like coding" />
-  <br />
-  <br />
+ 
 
 </div>
 
