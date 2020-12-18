@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/dolphingarlic/dolphingarlic/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/images.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Andi and I like maths" src="https://github.com/dolphingarlic/dolphingarlic/blob/master/images/personal_note.svg" />
+  <img height="50" alt="My Name is Rajeev Ranjan and I like coding" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/images.jpg" />
   <br />
   <br />
 
