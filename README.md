@@ -44,6 +44,6 @@
 [website]: https://rajeevranjan.co
 [twitter]: https://twitter.com/rajeevkumar0301
 [instagram]: https://www.instagram.com/rajeevranjancom/?hl=en
-[linkedin]: https://www.linkedin.com/in/rajeev-ranjan-691043111/
+[linkedin]: https://www.linkedin.com/in/rajeevranjancom/
 [dev]: https://dev.to/rajeevkumar0301
 [quora]: https://www.quora.com/profile/Rajeev-Ranjan-664
