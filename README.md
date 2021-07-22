@@ -40,6 +40,8 @@
 💬 [quora][quora] **|** 
 
 
+![Visitor Count](https://profile-counter.glitch.me/rajeevranjancom/count.svg)
+
 [gatsby]: https://gatsbyjs.org
 [website]: https://rajeevranjan.co
 [twitter]: https://twitter.com/rajeevkumar0301
