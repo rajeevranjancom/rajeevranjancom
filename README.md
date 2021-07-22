@@ -1,3 +1,7 @@
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevranjancom&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevranjancom&show_icons=true&theme=tokyonight)
+
 <div align="left">
  
 
