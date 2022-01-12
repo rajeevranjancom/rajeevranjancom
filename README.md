@@ -1,9 +1,4 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevranjancom&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevranjancom&show_icons=true&theme=tokyonight)
-
-<div align="left">
- 
 
   <img alt="1" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
   <img alt="2" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/2.gif">
