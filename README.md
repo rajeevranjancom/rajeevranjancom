@@ -47,7 +47,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/rajeevranjancom/count.svg)
 
 [gatsby]: https://gatsbyjs.org
-[website]: https://rajeevranjan.co
+[website]: https://rajeevranjancom.github.io/rajeevranjan.com/
 [twitter]: https://twitter.com/rajeevranjanco
 [instagram]: https://www.instagram.com/rajeevranjancom/
 [linkedin]: https://www.linkedin.com/in/rajeevranjancom/
