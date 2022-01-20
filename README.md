@@ -48,8 +48,8 @@
 
 [gatsby]: https://gatsbyjs.org
 [website]: https://rajeevranjan.co
-[twitter]: https://twitter.com/rajeevkumar0301
-[instagram]: https://www.instagram.com/rajeevranjancom/?hl=en
+[twitter]: https://twitter.com/rajeevranjanco
+[instagram]: https://www.instagram.com/rajeevranjancom/
 [linkedin]: https://www.linkedin.com/in/rajeevranjancom/
-[dev]: https://dev.to/rajeevkumar0301
+[dev]: https://dev.to/rajeevranjancom/
 [quora]: https://www.quora.com/profile/Rajeev-Ranjan-664
