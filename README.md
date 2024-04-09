@@ -1,6 +1,9 @@
 # Hello, I'm Rajeev Ranjan
 <a href="https://www.linkedin.com/in/rajeevranjancom/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevranjancom&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevranjancom&show_icons=true&theme=tokyonight)
+
 # Introduction
 
 Experienced cyber security professional with over 2+ years of dedicated expertise as a SOC analyst, specializing in threat Hunting, alert monitoring, Incident Response, and client engagement. You have demonstrated the ability to effectively mitigate threats and safeguard organizational assets through proactive monitoring and rapid response strategies. You are committed to staying ahead of emerging cyber threats and continuously enhancing defensive capabilities.
@@ -21,9 +24,29 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevranjancom&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevranjancom&show_icons=true&theme=tokyonight)
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+
 
 <div align="left">
  
