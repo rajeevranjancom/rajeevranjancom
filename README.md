@@ -6,17 +6,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevranjancom&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevranjancom&show_icons=true&theme=tokyonight)
 
-# Introduction
+# WHOAMI
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## WORK
 
 Experienced cyber security professional with over 2+ years of dedicated expertise as a SOC analyst, specializing in
 Threat Hunting, alert monitoring, and Incident Response, and client engagement. Demonstrated ability to effectively
 mitigate threats and safeguard organizational assets through proactive monitoring and rapid response strategies.
 Committed to staying ahead of emerging cyber threats and continuously enhancing defensive capabilities.
-
-
-## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
