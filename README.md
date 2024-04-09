@@ -6,7 +6,10 @@
 
 # Introduction
 
-Experienced cyber security professional with over 2+ years of dedicated expertise as a SOC analyst, specializing in threat Hunting, alert monitoring, Incident Response, and client engagement. You have demonstrated the ability to effectively mitigate threats and safeguard organizational assets through proactive monitoring and rapid response strategies. You are committed to staying ahead of emerging cyber threats and continuously enhancing defensive capabilities.
+Experienced cyber security professional with over 2+ years of dedicated expertise as a SOC analyst, specializing in
+Threat Hunting, alert monitoring, and Incident Response, and client engagement. Demonstrated ability to effectively
+mitigate threats and safeguard organizational assets through proactive monitoring and rapid response strategies.
+Committed to staying ahead of emerging cyber threats and continuously enhancing defensive capabilities.
 
 
 ## Objective
