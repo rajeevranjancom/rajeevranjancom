@@ -66,6 +66,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img alt="24" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/24.gif">
   <img alt="28" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/28.gif">
   <img alt="29" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/29.gif">
+    <img alt="10" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/10.gif">
+  <img alt="11" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/11.gif">
  
 </div>
 
