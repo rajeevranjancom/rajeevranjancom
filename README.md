@@ -37,7 +37,7 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
     <img src="https://img.shields.io/badge/-Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)" />
     <img src="https://img.shields.io/badge/-Nessus-6781F2?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-BeEF--XSS-red?style=for-the-badge&logo=beef-xss&logoColor=white)" />
-     <img src="https://img.shields.io/badge/-Yara-138000?&style=for-the-badge&logo=Yara&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Yara-138000?&style=for-the-badge&logo=Yara&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -54,7 +54,6 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
     <img src="https://img.shields.io/badge/-ProAct-00427E?&style=for-the-badge&logo=ProAct&logoColor=white" />
 </div>
 
-
 ### SKILLS
 <div>
     <img src="https://img.shields.io/badge/-Manul Hunting-ff4d94?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -65,13 +64,11 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
     <img src="https://img.shields.io/badge/-Web Security-0066cc?&style=for-the-badge&logo=ProAct&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cyber Threat Intelligence-ff0080?&style=for-the-badge&logo=ProAct&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP Top 10-e69900?&style=for-the-badge&logo=ProAct&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MITRE ATT&CK-40bf40?&style=for-the-badge&logo=ProAct&logoColor=white" />    
-    
+    <img src="https://img.shields.io/badge/-MITRE ATT&CK-40bf40?&style=for-the-badge&logo=ProAct&logoColor=white" />       
 </div>
 
 ## :)
 <div align="left">
- 
   <img alt="1" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
   <img alt="2" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/2.gif">
   <img alt="3" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/3.gif">
@@ -83,14 +80,12 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
   <img alt="9" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/9.gif">
   <img alt="10" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/10.gif">
   <img alt="11" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/11.gif">
-
   <img alt="20" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/20.gif">
   <img alt="22" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/22.gif">
   <img alt="12" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/12.gif">
   <img alt="24" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/24.gif">
   <img alt="28" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/28.gif">
   <img alt="29" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/29.gif">
- 
 </div>
 
 - 🌱 I’m currently Working at: SISA Information Security
@@ -104,7 +99,6 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
 👔 [linkedin][linkedin] **|** 
 🔭 [dev][dev] **|** 
 💬 [quora][quora] **|** 
-
 
 ![Visitor Count](https://profile-counter.glitch.me/rajeevranjancom/count.svg)
 
