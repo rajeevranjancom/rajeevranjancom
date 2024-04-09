@@ -1,5 +1,9 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Rajeev Ranjan
 <a href="https://www.linkedin.com/in/rajeevranjancom/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+# Introduction
+
+Experienced cyber security professional with over 2+ years of dedicated expertise as a SOC analyst, specializing in threat Hunting, alert monitoring, Incident Response, and client engagement. You have demonstrated ability to effectively mitigate threats and safeguard organizational assets through proactive monitoring and rapid response strategies. You are committed to staying ahead of emerging cyber threats and continuously enhancing defensive capabilities.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevranjancom&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevranjancom&show_icons=true&theme=tokyonight)
