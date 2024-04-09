@@ -49,14 +49,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-  <img alt="20" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/20.gif">
-  <img alt="22" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/22.gif">
-  <img alt="12" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/12.gif">
-  <img alt="24" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/24.gif">
-  <img alt="28" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/28.gif">
-  <img alt="29" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/29.gif">
-
-  
+<div align="left">
+ 
+  <img alt="1" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
+  <img alt="2" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/2.gif">
+  <img alt="3" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/3.gif">
+  <img alt="4" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/4.gif">
+  <img alt="5" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/5.gif">
+  <img alt="6" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/6.gif">
+  <img alt="7" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/7.gif">
+  <img alt="8" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/8.gif"> 
+ 
 </div>
 
 - 🌱 I’m currently Working at: SISA Information Security
