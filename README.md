@@ -49,25 +49,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-
-
-<div align="left">
- 
-  <img alt="1" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
-  <img alt="2" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/2.gif">
-  <img alt="3" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/3.gif">
-  <img alt="4" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/4.gif">
-  <img alt="5" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/5.gif">
-  <img alt="6" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/6.gif">
-  <img alt="7" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/7.gif">
-  <img alt="8" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/8.gif"> 
-  <img alt="9" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/9.gif">
-  <img alt="10" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/10.gif">
-  <img alt="11" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/11.gif">
-  <img alt="15" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/15.gif">
-
-   <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/0.jpg";" alt="Welcome to my Github Profile" />
-
   <img alt="20" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/20.gif">
   <img alt="22" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/22.gif">
   <img alt="12" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/12.gif">
@@ -78,10 +59,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
   
 </div>
 
-- 🔭 About me: I am a Front-End Developer/ Software Developer based in the Bangalore India and i have been building, developing websites for years, which comply                  with the latest design trends. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution                  helps me prioritize tasks, iterate fast and deliver faster.
-- 🌱 I’m currently learning: MIT 6.006/6.046J / 18.410J
-- 👯 I’m looking to collaborate on: java, C++
-- 🤔 I’m looking for help with: React, Spring
+- 🌱 I’m currently Working at: SISA Information Security
+- 👯 I’m looking to collaborate on: Threat Hunting
+- 🤔 I’m looking for help with: AD
 - 📫 How to reach me: cs19rajeev@gmail.com
 
 🏡 [website][website] **|** 
