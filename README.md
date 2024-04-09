@@ -34,8 +34,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?style=for-the-badge&logo=BurpSuite&logoColor=white)](https://portswigger.net/burp)" />
+    <img src="https://img.shields.io/badge/-Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)" />
+    <img src="https://img.shields.io/badge/-Nessus-6781F2?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BeEF--XSS-red?style=for-the-badge&logo=beef-xss&logoColor=white)" />
+     <img src="https://img.shields.io/badge/-Yara-138000?&style=for-the-badge&logo=Yara&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -49,6 +52,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ProAct-00427E?&style=for-the-badge&logo=ProAct&logoColor=white" />
+</div>
+
+
+### SKILLS
+<div>
+    <img src="https://img.shields.io/badge/-Manul Hunting-ff4d94?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Incident Response-b3ffb3?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Detection Engineering-cc0000?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cloud Security-3333ff?&style=for-the-badge&logo=ProAct&logoColor=white" />
+    <img src="https://img.shields.io/badge/-security information & Event Management-adad85?&style=for-the-badge&logo=ProAct&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Web Security-0066cc?&style=for-the-badge&logo=ProAct&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber Threat Intelligence-ff0080?&style=for-the-badge&logo=ProAct&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP Top 10-e69900?&style=for-the-badge&logo=ProAct&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE ATT&CK-40bf40?&style=for-the-badge&logo=ProAct&logoColor=white" />    
+    
 </div>
 
 ## :)
