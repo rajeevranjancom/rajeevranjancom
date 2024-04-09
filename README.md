@@ -9,15 +9,24 @@
 ## WHOAMI
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## WORK
-
 Experienced cyber security professional with over 2+ years of dedicated expertise as a SOC analyst, specializing in
 Threat Hunting, alert monitoring, and Incident Response, and client engagement. Demonstrated ability to effectively
 mitigate threats and safeguard organizational assets through proactive monitoring and rapid response strategies.
 Committed to staying ahead of emerging cyber threats and continuously enhancing defensive capabilities.
 
 ## Skills
+
+<div>
+    <img src="https://img.shields.io/badge/-Manul Hunting-ff4d94?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Incident Response-b3ffb3?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Detection Engineering-cc0000?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cloud Security-3333ff?&style=for-the-badge&logo=ProAct&logoColor=white" />
+    <img src="https://img.shields.io/badge/-security information & Event Management-adad85?&style=for-the-badge&logo=ProAct&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Web Security-0066cc?&style=for-the-badge&logo=ProAct&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber Threat Intelligence-ff0080?&style=for-the-badge&logo=ProAct&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP Top 10-e69900?&style=for-the-badge&logo=ProAct&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE ATT&CK-40bf40?&style=for-the-badge&logo=ProAct&logoColor=white" />       
+</div>
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -52,19 +61,6 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-ProAct-00427E?&style=for-the-badge&logo=ProAct&logoColor=white" />
-</div>
-
-### SKILLS
-<div>
-    <img src="https://img.shields.io/badge/-Manul Hunting-ff4d94?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Incident Response-b3ffb3?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Detection Engineering-cc0000?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cloud Security-3333ff?&style=for-the-badge&logo=ProAct&logoColor=white" />
-    <img src="https://img.shields.io/badge/-security information & Event Management-adad85?&style=for-the-badge&logo=ProAct&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Web Security-0066cc?&style=for-the-badge&logo=ProAct&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cyber Threat Intelligence-ff0080?&style=for-the-badge&logo=ProAct&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP Top 10-e69900?&style=for-the-badge&logo=ProAct&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MITRE ATT&CK-40bf40?&style=for-the-badge&logo=ProAct&logoColor=white" />       
 </div>
 
 ## :)
