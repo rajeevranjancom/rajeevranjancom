@@ -1,5 +1,4 @@
 # Hello, I'm Rajeev Ranjan
-<a href="https://www.linkedin.com/in/rajeevranjancom/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/0011.jpg" width="100%" >
 
