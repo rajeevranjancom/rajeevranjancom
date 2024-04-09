@@ -20,7 +20,7 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
     <img src="https://img.shields.io/badge/-Manul Hunting-ff4d94?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Incident Response-b3ffb3?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Detection Engineering-cc0000?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cloud Security-3333ff?&ddstyle=for-the-badge&logo=ProAct&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cloud Security-3333ff?&style=for-the-badge&logo=ProAct&logoColor=white" />
     <img src="https://img.shields.io/badge/-security information & Event Management-adad85?&style=for-the-badge&logo=ProAct&logoColor=white" />
     <img src="https://img.shields.io/badge/-Web Security-0066cc?&style=for-the-badge&logo=ProAct&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cyber Threat Intelligence-ff0080?&style=for-the-badge&logo=ProAct&logoColor=white" />
