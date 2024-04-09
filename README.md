@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevranjancom&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevranjancom&show_icons=true&theme=tokyonight)
 
-# WHOAMI
+## WHOAMI
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
