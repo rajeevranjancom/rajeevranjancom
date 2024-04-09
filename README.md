@@ -61,7 +61,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img alt="5" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/5.gif">
   <img alt="6" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/6.gif">
   <img alt="7" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/7.gif">
-    <img alt="22" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/22.gif">
+  <img alt="22" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/22.gif">
   <img alt="12" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/12.gif">
   <img alt="24" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/24.gif">
   <img alt="28" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/28.gif">
@@ -86,8 +86,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 [gatsby]: https://gatsbyjs.org
 [website]: https://rajeevranjancom.github.io/rajeevranjan.com/
-[twitter]: https://twitter.com/rajeevranjanco
-[instagram]: https://www.instagram.com/rajeevranjancom/
-[linkedin]: https://www.linkedin.com/in/rajeevranjancom/
 [dev]: https://dev.to/rajeevranjancom/
 [quora]: https://www.quora.com/profile/Rajeev-Ranjan-664
