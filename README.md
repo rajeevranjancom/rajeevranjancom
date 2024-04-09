@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevranjancom&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevranjancom&show_icons=true&theme=tokyonight)
-
+![Visitor Count](https://profile-counter.glitch.me/rajeevranjancom/count.svg)
 ## WHOAMI
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
@@ -88,17 +88,3 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
 - 👯 I’m looking to collaborate on: Threat Hunting
 - 🤔 I’m looking for help with: AD
 - 📫 How to reach me: cs19rajeev@gmail.com
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin] **|** 
-🔭 [dev][dev] **|** 
-💬 [quora][quora] **|** 
-
-![Visitor Count](https://profile-counter.glitch.me/rajeevranjancom/count.svg)
-
-[gatsby]: https://gatsbyjs.org
-[website]: https://rajeevranjancom.github.io/rajeevranjan.com/
-[dev]: https://dev.to/rajeevranjancom/
-[quora]: https://www.quora.com/profile/Rajeev-Ranjan-664
