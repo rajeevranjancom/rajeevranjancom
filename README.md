@@ -3,7 +3,24 @@
 
 # Introduction
 
-Experienced cyber security professional with over 2+ years of dedicated expertise as a SOC analyst, specializing in threat Hunting, alert monitoring, Incident Response, and client engagement. You have demonstrated ability to effectively mitigate threats and safeguard organizational assets through proactive monitoring and rapid response strategies. You are committed to staying ahead of emerging cyber threats and continuously enhancing defensive capabilities.
+Experienced cyber security professional with over 2+ years of dedicated expertise as a SOC analyst, specializing in threat Hunting, alert monitoring, Incident Response, and client engagement. You have demonstrated the ability to effectively mitigate threats and safeguard organizational assets through proactive monitoring and rapid response strategies. You are committed to staying ahead of emerging cyber threats and continuously enhancing defensive capabilities.
+
+
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Sigma Rule| <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevranjancom&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevranjancom&show_icons=true&theme=tokyonight)
