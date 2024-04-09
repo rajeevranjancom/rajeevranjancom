@@ -61,13 +61,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img alt="5" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/5.gif">
   <img alt="6" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/6.gif">
   <img alt="7" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/7.gif">
+  <img alt="8" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/8.gif"> 
+  <img alt="9" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/9.gif">
+  <img alt="10" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/10.gif">
+  <img alt="11" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/11.gif">
+
+  <img alt="20" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/20.gif">
   <img alt="22" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/22.gif">
   <img alt="12" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/12.gif">
   <img alt="24" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/24.gif">
   <img alt="28" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/28.gif">
   <img alt="29" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/29.gif">
-    <img alt="10" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/10.gif">
-  <img alt="11" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/11.gif">
  
 </div>
 
