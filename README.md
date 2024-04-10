@@ -67,8 +67,6 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
   <img alt="22" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/22.gif">
   <img alt="12" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/12.gif">
   <img alt="24" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/24.gif">
-  <img alt="28" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/28.gif">
-  <img alt="29" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/29.gif">
 </div>
 
 - 🌱 I’m currently Working at: SISA Information Security
