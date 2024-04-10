@@ -64,7 +64,6 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
   <img alt="8" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/8.gif"> 
   <img alt="10" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/10.gif">
   <img alt="11" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/11.gif">
-  <img alt="20" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/20.gif">
   <img alt="22" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/22.gif">
   <img alt="12" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/12.gif">
   <img alt="24" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/24.gif">
