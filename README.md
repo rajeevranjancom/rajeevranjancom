@@ -15,6 +15,23 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
 
 ## Skills
 
+## Tools
+
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?style=for-the-badge&logo=BurpSuite&logoColor=white)](https://portswigger.net/burp)" />
+    <img src="https://img.shields.io/badge/-Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)" />
+    <img src="https://img.shields.io/badge/-Nessus-6781F2?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BeEF--XSS-red?style=for-the-badge&logo=beef-xss&logoColor=white)" />
+    <img src="https://img.shields.io/badge/-Yara-138000?&style=for-the-badge&logo=Yara&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ProAct-00427E?&style=for-the-badge&logo=ProAct&logoColor=white" />
+</div>
+
 <div>
     <img src="https://img.shields.io/badge/-Manul Hunting-ff4d94?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Incident Response-b3ffb3?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -35,23 +52,6 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
 | Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
 | Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
-
-## Tools
-
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?style=for-the-badge&logo=BurpSuite&logoColor=white)](https://portswigger.net/burp)" />
-    <img src="https://img.shields.io/badge/-Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)" />
-    <img src="https://img.shields.io/badge/-Nessus-6781F2?&style=for-the-badge&logo=Nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BeEF--XSS-red?style=for-the-badge&logo=beef-xss&logoColor=white)" />
-    <img src="https://img.shields.io/badge/-Yara-138000?&style=for-the-badge&logo=Yara&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ProAct-00427E?&style=for-the-badge&logo=ProAct&logoColor=white" />
-</div>
 
 ## :)
 <div align="left">
