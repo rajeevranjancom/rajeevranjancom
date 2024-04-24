@@ -13,8 +13,6 @@ Threat Hunting, alert monitoring, and Incident Response, and client engagement. 
 mitigate threats and safeguard organizational assets through proactive monitoring and rapid response strategies.
 Committed to staying ahead of emerging cyber threats and continuously enhancing defensive capabilities.
 
-## Skills
-
 ## Tools
 
 <div>
@@ -31,6 +29,8 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-ProAct-00427E?&style=for-the-badge&logo=ProAct&logoColor=white" />
 </div>
+
+## Skills
 
 <div>
     <img src="https://img.shields.io/badge/-Manul Hunting-ff4d94?&style=for-the-badge&logo=Suricata&logoColor=white" />
