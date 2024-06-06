@@ -52,7 +52,7 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
 | Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
 | Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
-| Mitre Based Usecases | <a href="https://github.com/rajeevranjancom/Mitre-Based-Usecases">Mitre Based Usecases </a>|
+| Mitre Based Usecases | <a href="https://github.com/rajeevranjancom/Mitre-Based-Usecases?tab=readme-ov-file#readme">Mitre Based Usecases </a>|
 
 ## :)
 <div align="left">
