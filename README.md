@@ -7,8 +7,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/rajeevranjancom/count.svg)
 ## WHOAMI
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-Experienced cyber security professional with over 2+ years of dedicated expertise as a SOC analyst, specializing in
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 2 Analyst.
+Experienced cyber security professional with over 3+ years of dedicated expertise as a SOC analyst, specializing in
 Threat Hunting, alert monitoring, and Incident Response, and client engagement. Demonstrated ability to effectively
 mitigate threats and safeguard organizational assets through proactive monitoring and rapid response strategies.
 Committed to staying ahead of emerging cyber threats and continuously enhancing defensive capabilities.
